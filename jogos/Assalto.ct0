@@ -1,0 +1,719 @@
+* Jogo - Assalto ao mestre Arsenal
+* Revista Dragão Brasil - número 11 ano 1 - Trama Editora Ltda.
+* Esse arquivo contém o texto do jogo e é recomendado estar onde
+* encontra-se o script referente a esse jogo
+* Texto digitalizado por Luís Antônio Campos
+* Autor: Tiago Melo Casal
+* Em: 26/05/2002
+
+
+
+@Apresentação
+  Seu nome é Andrus, (o Aranha), um renomado ladrão profissional.
+  Depois de uma vida errante de aventuras e grandes assaltos, você
+decidiu estabelecer-se na cidade de Kristophania, um lugar calmo para
+pessoas do seu ramo.
+  Você associa-se à Guilda de Ladrões local, uma espécie de sindicato do
+crime, que detém o monopólio das atividades criminosas nesta metrópole.
+Associar-se à Guilda traz muitas vantagens: garante informações valiosas
+e proteção contra a polícia em troca de uma porcentagem do produto dos
+assaltos, sem falar que todos os ladrões agindo fora da Guilda são
+caçados, tanto pela polícia quanto pelos outros ladrões!
+  Em outros tempos você toparia esse desafio com prazer, mas agora está
+procurando uma posição mais confortável.
+  Participar da Guilda, contudo, está mostrando-se mais chato do que
+esperava. Acabaram-se os desafios, as coisas estão fáceis demais. Você
+chegou mesmo a realizar alguns assaltos (não autorizados), enriquecendo
+seu tesouro pessoal sem que a chefia da Guilda ficasse sabendo. Talvez
+seja hora de almejar planos mais elevados: a chefia da Guilda! Sim, essa
+poderia ser uma coroação digna de sua carreira. Mas como? O chefão atual
+é fraco e descuidado mas mesmo você não se atreveria a enfrentar seus
+guarda-costas, assassinos mais perigosos que muitos guardas do palácio
+do Rei. Seria loucura tentar isso sem... mágica.... Mágica. Isso lhe
+recorda algo sobre suas antigas aventuras, quando vc atuava na companhia
+de um grupo de heróis: 1 bárbaro com 1 grifo, 1 monge mascarado, uma
+donzela gladiadora, 1 anão mal cheiroso e outros tipos bem estranhos,
+mas ótimos quando músculos se faziam necessários. Naquela época vocês
+invadiram a fortaleza do vilão (Mestre Arsenal), um famigerado
+colecionador de armas e armaduras mágicas. Lá você conseguiu a capa
+mágica, que deu origem a seu apelido. A capa lhe permite subir pelas
+paredes como uma aranha e disparar teia pelas mãos. Um artefato útil em
+sua atividade, sem dúvida, mas que não ajudaria muito na conquista da
+chefia da Guilda. Talvez seja hora de fazer outra visita ao velho
+Arsenal...
+
+@SuaAventuraComeçou
+  Decidido a penetrar no castelo de Arsenal, você reúne suas ferramentas
+de ladrão: as fiéis gazuas para forçar fechaduras, a lanterna feita com
+uma pedra iluminada por magia e a adaga que já cortou tantas gargantas.
+Cordas e ganchos de escalada não são necessários há muito tempo, afinal,
+você é o Aranha!
+  Há ainda um último equipamento que você gostaria de ter consigo, e
+custará apenas algumas canecas de cerveja. Indo ao setor de animais
+treinados da Guilda, você (convence) o adestrador a emprestar-lhe um dos
+seus macacos, bichinhos muito úteis para bater carteiras ou entrar em
+lugares protegidos para destrancar portas por dentro. Agora, com o mico
+sobre seu ombro, você acredita estar pronto para o desafio.
+  Bem, talvez nem tanto: quando invadiram o castelo de Arsenal, você
+contava com a ajuda de magos poderosos e guerreiros embrutecidos para
+enfrentar o vilão. Ir sozinho seria uma grande imprudência. Quem poderia
+ajudá-lo? Há tempos não tem notícias de seus antigos colegas, mas ainda
+resta na cidade alguém do grupo original.
+  Parx Methralian, um sacerdote dos Deuses da Trapaça.
+  Por trás da aparência inofensiva de clérigo, era um assaltante quase
+tão habilidoso quanto você e seus poderes mágicos. Ajudariam bastante.
+
+@2
+  Vocês seguem viagem sem maiores incidentes. Então, por entre as
+montanhas, surge a torre que serve de habitação ao colecionador de
+armas mágicas.Você recorda a apavorante experiência de lutar com seus
+guardas zumbis, que caíram facilmente diante da investida dos heróis.
+Desta vez, contudo, vocês não contam com bárbaros e gladiadores
+musculosos em seu time -e a situação requer uma aproximação mais
+furtiva.
+  Parx sugere um plano: vocês podem disfarçar-se eêntrar no castelo
+para verificar o interior antes de realizar o assalto. Você acha
+arriscado demais e prefere esperar o cair da noite para a invasão.
+
+@3
+  A estatueta é de ouro, com quase 30 centímetros de altura. É
+belíssima, representando as formas delicadas de uma fada com precisão
+impecável.
+  Pasmo,você reconhece no pedestal a assinatura do mestre escultor elfo
+Lorens Lorian.
+  Se for um trabalho original, vale uma fortuna; e, se for uma
+falsificação, você gostaria de conhecer esse gênio da arte e contratá-lo
+para a Guilda.
+  Você coloca a estatueta na mochila.
+
+@4
+  Por mais tentadora que seja a idéia de voltar aos velhos tempos, a
+prudência recomenda que deixem o viajante seguir. Afinal, ele usa
+armadura da guarda real de Thormy e você já teve encrencas suficientes
+com aquele rei.
+  Vocês passam pelo cavaleiro murmurando cumprimentos e cobrindo os
+rostos. Quando ele está longe, Parx avisa que desperdiçar essa chance
+vai desagradar os deuses,mas você prefere contrariar a fé de Parx a
+enfrentar os exércitos do rei Thormy.
+
+@5
+  Escutando com atenção, você abre a porta no instante em que o cão está
+trotando no sentido oposto ao de vocês. Ele é ainda maior do que você
+pensava, e por pouco a surpresa não trai seus movimentos.
+  Com os gestos apropriados, você estende as mãos e invoca o poder da
+capa: uma massa de fios pegajosos dispara de seus dedos, indo grudar nas
+paredes do corredor -e prendendo o cão no meio deles.
+  Você acha estranho como o cão não late.
+  Então, quando a luta parece vencida, o horror salta a seus olhos: a
+pele putrefata do animal começa a descolar-se da carne, livrando-o da
+teia. Ele estará livre em segundos.
+ - Um morto-vivo! diz Parx. Arsenal invocou um cão zumbi para proteger
+sua torre.
+  Agora que o clérigo conhece a real natureza da ameaça, pode agir de
+acordo: ele empunha seu símbolo sagrado, mostrando-o à criatura, que
+parece apavorar-se com esse gesto. Sem som, o monstro debate-se na teia
+e tenta fugir. Sua carne começa a fumegar, sua pele esfarela em
+cinzas... e logo a abominação cadavérica deixa de existir.
+  Bendito seja o poder dos deuses de Parx, você pensa.
+  Vocês tiveram sorte até agora.
+  Não fizeram nenhum barulho que pudesse chamar a atenção de Arsenal, já
+que o cão era um morto-vivo, criaturas naturalmente silenciosas. Só
+produziu ruído suficiente para que você escutasse através da porta.
+  Há uma porta no lado oposto do corredor, e vocês atravessam os restos
+de teia e cinzas para chegar até ela. É uma grande e sólida porta
+metálica. Pode conter armadilhas, de modo que seria melhor dar uma
+checada, mas, em compensação, o ruído das ferramentas poderia
+denunciá-los. Você deve decidir qual risco tomar:
+
+@6
+  Vocês se decidem pelo caminho da direita.
+  O corredor segue alguns metros, vira novamente à direita e termina em
+uma porta de madeira. Uma porta bem simples, que não admite a presença
+de armadilhas, de modo que você descarta essa hipótese.
+  Uma olhada no ferrolho revela que está trancada.
+
+@7
+  Arsenal é recluso mas é dificil resistir a uma conversa com
+negociantes de objetos mágicos.
+  Ocultos sob seus disfarces, vocês aproximam-se da torre e batem à
+porta. São recebidos por um (mordomo) bem peculiar: parece um guerreiro
+usando uma couraça completa, mas um olhar atento revela que não existe
+ninguém por trás das fendas do elmo.
+ - Quem deseja falar com meu senhor? -diz a armadura vazia, com
+arrepiante voz metálica.
+ - Ouvimos falar da magnífica coleção de Mestre Arsenal - você declara -
+e viemos negociar artefatos com ele.
+  Por um instante a armadura fica inerte, como se pensar fosse esforço
+grande demais. Então ela se coloca de lado e, com um gesto,convida-os a
+entrar: - Meu senhor irá recebê-los.
+  Vocês são instruídos a aguardar em um saguão de entrada, luxuosamente
+decorado, um contraste violento com o desgaste das paredes externas. Há
+várias armaduras perfiladas junto às paredes (inanimadas, você espera),
+e uma grande lareira ao norte.
+  Então um arrepio pavoroso percorre seus ossos: sobre a lareira você
+reconhece um tridente mágico, aquele que havia sido levado por Silvius
+Marithimus, um gladiador que fazia parte do grupo original de heróis.
+  Se Arsenal recuperou o tridente, então... Silvius está morto!
+  Seus ouvidos percebem passos pesados descendo uma escada próxima. Em
+repentino desespero, você olha para a própria capa mágica e para o
+cajado de Parx: por certo Arsenal irá reconhecer seus pertences
+roubados! - Vamos cair fora daqui -você diz a Parx, enquanto corre para
+a porta.
+  Movidos por pura adrenalina, vocês conseguem abrir a pesada porta e
+sumir nas montanhas. Escondidos entre as rochas, ficam aliviados quando
+percebem que não foram seguidos, mas agora será duas vezes mais perigoso
+penetrar na torre, pois Arsenal estará desconfiado.
+  Isso ensina você a escutar Parx e suas idéias idiotas.
+
+@8
+  O cetro está na parede, suspenso na horizontal por dois suportes, como
+as demais armas. Olhando mais de perto, você percebe que o cristal está
+preso por uma peça metálica em forma de mão.
+ - É uma arma mágica -avisa Parx, ainda em sua forma de macaco. - já vi
+magos utilizando cajados assim para lançar relâmpagos. Mas acautela-se
+antes de tocá-lo, amigo Andrus: o cajado pode ser uma arma formidável
+nas mãos da pessoa certa, mas pode matar a pessoa errada.
+ - Como assim?
+ - É como o cão influenciado pela personalidade do dono. Se o construtor
+desta arma era maligno, uma pessoa bondosa não poderá tocá-la sem sofrer
+dano; se era bom, queimará as mãos de uma pessoa má. Você nunca
+considerou a si mesmo bom ou mal; são apenas estados de espírito. Além
+disso, não há como saber qual seria a tendência moral do fabricante da
+arma.
+
+@9
+  Você saca suas ferramentas e tenta forçar a fechadura, mas de nada
+adianta: ela é de excelente qualidade, a prova de arrombadores, e mesmo
+sua técnica mostra-se inútil. Depois de mais alguns minutos de
+tentativas, você desiste.
+  Agora só resta pegar o corredor da direita.
+
+@10
+  Depois de comprar uma carroça de dois bons cavalos ( usando disfarces
+para não deixar pistas, claro), vocês partem para as montanhas onde a
+fortaleza de Arsenal está escondida. O caminho é complicado, e jamais
+conseguiriam encontrá-lo se já não tivessem estado lá antes.
+  Então, uma surpresa: pela estrada que singra as montanhas, em sentido
+contrário, surge um viajante. Um cavaleiro de armadura, sobre o lombo de
+um majestoso cavalo branco. Suas vestes são luxuosas, e fazem com que
+você e Parx troquem olhares de soslaio.
+ - O amigo Andrus gostaria de fazer uma oferenda aos Deuses da Trapaça?
+- propõe Parx. Apesar de seus poderes, Parx às vezes age como criança:
+assaltar ou matar esse cavaleiro seria um ato que chegaria aos ouvidos
+da Guilda e seria considerado traição. Um risco elevado. Mas, por outro
+lado, suas jóias parecem muito valiosas...
+
+@11
+  Uma arma capaz de disparar relâmpagos... com ela você poderia fulminar
+a diretoria da Guilda, e facilmente assumir seu lugar. É exatamente o
+que procurava.
+  Sua mão aproxima-se do cetro, vacila um pouco. ..e fecha-se à volta
+dele. Seus dedos parecem dormentes, mas pode ser apenas o nervosismo.
+  Abrindo os olhos, para seu horror, você vê faíscas azuis crepitando
+sobre seu pulso.. Elas ficam maiores e maiores, queimando os pêlos de
+seu braço, deixando manchas negras na pele, calcinando sua carne... e
+matando você.
+  Diante do punhado de carvão que havia se chamado Andrus, o Aranha,
+Parx meneia a cabeça e lamenta:
+ - Sinto muito, amigo Andrus. Os Deuses da Trapaça não estavam com você.
+Uma pena...
+  E o macaquinho foge pela janela, de volta à cidade.
+
+@12
+  Você imagina que uma proposta de adesão à Guilda dos ladrões possa
+interessar a Arsenal. Não haveria problemas em apresentar-se como membro
+da Guilda, porque você o é de fato. Claro que a atual diretoria não sabe
+que Arsenal está sendo convidado, mas isso não será problema quando você
+tornar-se chefe.
+  Ocultos sob seus disfarces, vocês se aproximam da torre e batem à
+porta. São recebidos por um (mordomo) bem peculiar: Parece um guerreiro
+usando uma couraça completa, mas um olhar atento revela que não existe
+ninguém por trás das fendas do elmo.
+ - Quem deseja falar com meu Senhor?, diz a armadura vazia, com
+arrepiante voz metálica.
+  Você usa sua lábia para tentar convencer aquela coisa de que tem uma
+proposta interessante para seu patrão, ao mesmo tempo em que tenta
+espiar o interior. Parece que pouco mudou desde sua última visita: há
+novas armaduras perfiladas junto às paredes, e uma grande lareira ao
+norte.
+ - Meu Senhor não negocia com ladrões - diz a armadura, encerrando a
+conversa e levando a mão à espada na cintura.
+  Vocês fogem correndo e, aliviados, percebem que o guarda de Arsenal
+não os perseguiu; apenas fechou a porta novamente.
+ - Você e seus disfarces idiotas! - você reclama.- Agora Arsenal sabe
+que há ladrões rondando seu castelo. Vamos precisar de cuidado
+redobrado.
+ - Não olhe para mim. Foi sua essa idéia nada sábia de convidar Arsenal
+para a Guilda.
+  Resmungando, você espera o anoitecer.
+
+@13
+  Você cria coragem e puxa a tocha. Ela se move feito alavanca, e a
+parede começa a se movimentar, revelando uma porta secreta que dá acesso
+ao porão da torre.
+  Vocês sobem as escadas sorrateiramente e chegam ao andar térreo.
+Atravessam o saguão de entrada e alcançam a sala principal da coleção de
+Arsenal. Desta vez tomando cuidado para evitar o tapete traiçoeiro,
+vocês examinam a coleção. Descobrem sua capa e o cajado de Parx, tratam
+de pegá-los de volta, e começam a procurar o que vieram buscar. Mas não
+tem chance de procurar muito tempo. A porta explode em lascas, e por
+trás dela surge Mestre Arsenal - desta vez armado com seu destruidor
+martelo de guerra.
+ - Malditos ladrões! - ele grita furioso, rodopiando a arma. - Vocês
+querem minhas armas. Todos querem minhas armas. Mas não vou permitir que
+me roubem novamente. Eu terei todas as armas mágicas do mundo!
+  Desta vez o homem está mesmo possesso! Arsenal avança disposto a
+esmagar vocês dois, e a espada que você tem em mãos não será nada contra
+sua armadura encantada.
+  Você olha à volta, desesperado para encontrar algo que possa usar
+contra ele. Três objetos estão ao seu alcance:
+
+@14
+  Depois de procurar um pouco, você chega à conclusão de que não há
+armadilhas na porta.
+
+@15
+  Agarrando a espada, você descobre que sua lâmina desprende faíscas
+quando corta o ar. É uma arma mágica poderosa e você poderia derrotar
+muitos inimigos com ela, mas não Mestre Arsenal...
+  Em poucos momentos você e Parxs são reduzidos a dois punhados de carne
+moída...
+
+@16
+  Pelo que você se lembra da disposição dos quartos na torre de Arsenal,
+aquela porta deve levar a um corredor. Colando à madeira seu ouvido
+treinado, você tenta perceber os sons do outro lado. A princípio o
+silêncio parece total, mas logo você percebe um familiar clique-clique
+que só poderia ser o roçar de garras sobre pedra: há um cão de guarda no
+outro lado. E bem grande. Será questão de tempo até que o animal ouça ou
+fareje vocês. Precisam dar um jeito nele o quanto antes.
+ - Posso pedir aos deuses que lancem sobre a fera um feitiço paralisante
+- sussurra Parx.
+  É uma boa idéia, mas você tem seus próprios métodos para imobilizar os
+inimigos: a magia de sua capa permite que você dispare pelas mãos uma
+teia mágica, com fios viscosos que prenderão o mais forte guerreiro.
+
+@17
+  Sua mão desliza silenciosamente na direção do cabo da adaga. No exato
+momento em que ia tocá-la, contudo, um punho fecha-se veloz sobre seu
+pulso e aperta com força de gigante, esmigalhando seus ossos.
+ - Ah, larápio! esbraveja o cavaleiro, enquanto desembainha a espada com
+a mão livre. - Agora percebo, sua descrição combina com a do famigerado
+Aranha. Pagará por seus crimes, bandido.
+  A lâmina desce com força, e você sucumbe à explosão de dor. Só volta a
+abrir os olhos no dia seguinte, e descobre-se em um acampamento,
+aquecido pela fogueira. Parx, ao seu lado, entoa preces de cura que você
+o viu usar tantas vezes.
+ - Que aconteceu? - você consegue dizer.
+ - Você abusou da providência dos deuses, foi o que aconteceu. Meu
+cajado esmigalhou o crânio do ignóbil pecador antes que o pior
+acontecesse, mas o estrago já está feito. Acho que é o fim de seus dias
+como o Aranha, velho amigo.
+ - De que você está falando?
+  Você entende a terrível verdade quando tenta segurar o braço de Parx e
+descobre um toco enrolado em ataduras onde antes estava sua mão direita.
+  Sim, sua carreira está mesmo terminada...
+
+@18
+  Você acha mais prudente não abusar da sorte tentando roubar a adaga.
+Pode ser que desta vez ele perceba. Afastandose com discrição, você
+deixa que Parx continui distraindo o cavaleiro até que ele resolva
+partir.
+  Quando ele está longe, você investiga o conteúdo da bolsa: um generoso
+punhado de peças de ouro, uma pérola valiosa e um pergaminho com o selo
+real, contendo ordens do rei Thormy para que (o Aranha) seja capturado
+vivo ou morto (preferencialmente morto). Você gargalha, imaginando os
+problemas que o cavaleiro terá se proPor às autoridades de Kristophania
+uma caçada ao Aranha, sem aquele documento.
+  Parx aceita as moedas como (donativo para os deuses), e você fica com
+a pérola.
+
+@19
+  A lança, infelizment, não foi uma escolha sábia: é uma arma mágica
+especialmente criada para matar dragões e mostra-se desajeitada contra
+Arsenal. Ele vence a luta e esmaga vocês com seu (martelo).
+
+@20
+  Você volta sua atenção para a única porta do aposento, perguntando-se
+o que haverá além dela.
+
+@21
+  Vocês descem da carroça para falar com o homem. Agora reparam que sua
+armadura o identifica como oficial da Guarda Real.
+ - Que os deuses o abençoem, viajante - cumprimenta Parx. - O que faz um
+oficial real tão distante do palácio?
+ - Salve, sacerdote - responde ele, que sem dúvida teria uma reação
+diferente se reconhecesse os Deuses da Trapaça no medalhão usado por
+Parx. - Venho à procura de um famigerado gatuno, procurado por invadir o
+quarto da bela princesa Rhana. O rei Thormy oferece uma grande
+recompensa por informações sobre o vilão. Por acaso conhece a criatura
+pérfida conhecida como (o Aranha)?
+ - Nunca ouvi falar de tal fascínora - diz Parx, lutando para disfarçar
+o sorriso, enquanto você se recorda da agradável visão da princesa em
+seus transparentes trajes noturnos. Foi há bastante tempo; pelo visto, o
+rei Thormy ainda estava zangado.
+  A conversa entre Parx e o cavaleiro prossegue, enquanto a bolsa de
+moedas do oficial desliza com facilidade para o interior de sua capa.
+Então você nota no cinto dele uma adaga cravejada de jóias, e com
+símbolos estranhos gravados na bainha: talvez seja mágica! Valeria o
+risco de uma segunda tentativa?
+
+@22
+  Convencido de que não há ninguém no aposento, você começa a trabalhar
+com suas ferramentas. Mas não consegue dedicar-se à fechadura por muito
+tempo: a porta abre-se de repente pelo lado de dentro ! Infelizmente, seus
+ouvidos o traíram. Havia alguém no aposento, um zumbi descarnado que
+aguardava ordens de seu mestre. O silêncio dos mortos-vivos o enganou e
+você paga com a vida, quando as garras do monstro enterram-se em sua
+garganta, antes que Parx consiga esconjurá-lo...
+     Fim de jogo para você
+     Volte e faça novas opções!
+  Abrindo a porta, vocês entram em uma pequena sala vazia, com outra
+porta na parede oposta, exatamente igual a anterior, mas desta vez
+destrancada. A nova porta conduz a um corredor que segue em frente até
+terminar em uma parede, com uma tocha sobre um suporte. Aparentemente não
+há saída deste pequeno labirinto. Ou há? Tochas costumam servir de
+alavancas para salas secretas, mas também podem ativar armadilhas para
+espertinhos que pensarem nisso.
+    Se quiser mexer na tocha, tecle 1
+    Se acha melhor procurar armadilhas antes de mexer na tocha, tecle 2
+   Opção inválida. F1 ajuda
+  Você ruma para o templo escondido onde Parxt realiza seus cultos aos
+Deuses da Trapaça, certo de que vai encontrá-lo tentando convencer seus
+seguidores a livrarem-se dos (bens materiais), doando-os à igreja.
+Chegando lá, contudo, não encontra ninguém.
+  - Procurando por mim, Andrus?-diz uma voz sobre seu ombro. Você vira-se
+veloz e descobre o clérigo bem atrás de você. Como o maldito era matreiro!
+Apenas um ladrão muito experiente podia aproximar-se daquele jeito, pelas
+costas, de um outro ladrão. Você olha para seu cajado, de aparência
+inofensiva, mas sabe que é só aparência mesmo: também foi roubado da
+coleção de Arsenal, e é uma arma mágica poderosa, podendo transformar-se
+em uma destruidora maça de duas mãos. Você já a viu em ação,
+transformando crânios de ogres em purê. Você explica seus planos a Parx.
+Ele sorri e afaga o símbolo sagrado, dizendo:
+  - Certamente os deuses vão nos ajudar nessa empreitada, amigo Andrus.
+Mas tenho plena certeza de que a ajuda seria maior se o futuro chefe da
+Guilda fizesse certos votos de devoção à causa da Trapaça...
+  Entendendo o que ele tenta dizer, você garante que o culto de Parx
+ganhará um novo templo e maiores contribuições da Guilda quando a chefia
+mudar de mãos. Ele aceita o trato e vocês partem em viagem. Então você
+percebe que seu mico fugiu. Que diabos! Sob os efeitos da cerveja, o
+maldito adestrador  escolheu um animal ainda sem treinamento. Você saberá
+o que fazer com ele quando tornar-se o chefe. Mas, pensando bem, talvez o
+macaco não tenha fugido. Uma possibilidade atravessa sua mente, mas é tão
+assustadora que você acha melhor nem pensar nela.
+  No estilo dos padrões, você aproxima o ouvido da porta e concentra-se.
+Não consegue ouvir absolutamente nada. Você não tem dúvidas de que o
+aposento está vazio.
+    Se quer forçar a fechadura com suas ferramentas, tecle 1
+    Se quiser voltar e pegar o caminho da esquerda, tecle 2
+   Opção inválida. F1 ajuda
+  Ocultos entre as rochas, vocês esperam a chegada da noite.
+  Com a perícia dos ladrões, ocultos pela escuridão, vocês se aproximam
+da torre Arsenal. Decidem que a melhor maneira de entrar é por uma das
+janelas do segundo pavimento. Você vai primeiro. A capa mágica
+permite que suas mãos e pés grudem à pedra, e você escala como se fosse
+uma aranha. Parx faz uso de seu próprio e incomum método de escalada,
+transformando-se em macaco e subindo facilmente pela parede. Chegando à
+janela, vocês desanimam ao descobrir que é protegida por grossas barras
+de ferro. Seria necessária a força de um poderoso guerreiro para
+dobrá-las. Ou magia.
+  - E então, Parx? Tem aí algum feitiço que possa ajudar?
+- Não sou um mago, amigo Andrus - retruca o macaquinho.
+Meus poderes são um presente dos deuses por minha devoção. Mas sim, creio
+que posso ajudar... É engraçado ver o mico unindo as mãos e rezando, até
+que o resultado de suas preces comece a surgir: as barras brilham com uma
+luz fantasmagórica, e você assiste o metal se desmanchar diante de seus
+olhos!
+- Como fez isso? - você pergunta.
+- Não fiz nada amigo. Foram os deuses que, a meu pedido, envelheceram as
+grades mil anos.
+  Contente por ter aquele clérigo do seu lado, você entra no aposento.
+Tira da mochila sua pequena pedra mágica luminosa, que lhe serve de
+lanterna, e dirige seu facho à volta: parece que parte da coleção de
+Arsenal está guardada aqui. As paredes estão forradas com lanças,
+alabardas, tridentes e outras armas de grande porte. Devem ser
+destruidoras em mãos de um guerreiro, mas não interessam a você ou a Parx.
+  Procurando algo que valha a pena levar, sua atenção se volta para dois
+objetos :
+    Uma estatueta metálica sobre uma mesa, no canto do quarto. Se quiser
+    pegá-la, tecle 1; Um cetro, suspenso na parede, tendo em sua ponta um
+    cristal transparente. Se quiser pegá-lo, tecle 2; Se prefere deixar
+    tudo onde está, tecle 3
+   Opção inválida. F1 ajuda
+  Você coloca o elmo, e nada acontece. Esse elmo seria bem útil debaixo
+d'água, pois sua magia permite ao usuário respirar como se fosse um peixe,
+mas de nada adianta agora. Serve apenas para que Arsenal esmague suas
+pernas com o martelo, esperando poupar o precioso elmo...
+     Fim de jogo!
+     Tente outra vez.
+  A porta está bem trancada.
+    Se quiser usar suas ferramentas para destrancá-la, vá ao 9.
+    Se quiser tentar o outro corredor, vá ao 6.
+   Opção inválida. F1 ajuda
+  Você examina a fechadura e começa a cutucá-la com seu estojo de
+ferramentas. Ao seu lado, Parx retoma a forma humana com um desabafo:
+ - Não acredito em meus olhos! Por onde anda sua antiga astúcia, amigo
+Andrus? Por que está procurando armadilhas no lado de dentro de uma porta?
+Francamente...
+ Irritado com sua momentânea incompetência para o ramo, Parx avança e mete
+o pé na porta, escancarando-a, sem se preocupar com o que há no outro
+lado. E logo se arrepende. A porta leva para um corredor, que a princípio
+parece vazio.
+Apenas a princípio, porque da escuridão surge um enorme cão, um mastim
+realmente assustador, com presas demoníacas curvando-se para fora da boca.
+Um cão estranhamente silencioso.
+Você saca o punhal e prepara-se para a luta, mas... seria sua imaginação
+ou as costelas da criatura estavam expostas?
+Infelizmente não era imaginação. Aquilo não era um cão de guarda comum,
+mas sim um cadáver animado, certamente invocado por Arsenal para proteger
+sua torre nesta noite tão suspeita.
+Despreparados para uma batalha contra um morto-vivo, vocês não conseguem
+sobreviver ao toque pestilento das garras da fera...
+     Fim de jogo para você!
+     Quer tentar de novo?
+  Decidindo que as ferramentas para procurar armadilhas fariam barulho
+demais, você resolve arriscar.
+Segura a maçaneta, prende a respiração e começa a puxar a porta.
+Um calafrio percorre suas costas quando você vê um arame se esticando da
+porta ao batente, e ouve um (clique). Você e Parx nem têm tempo de gritar
+quando dúzias de lanças mergulham do teto, perfurando seus corpos...
+     Fim de jogo.
+     Vai topar jogar de novo?
+  Cansado de sutilezas, você se arma com a espada que pegou dos guardas e
+derruba a porta com um chute. A visão do enterio" é aterradora: um cadaver
+ossudo que parece jogado em um canto olha para você e levanta-se, avançando
+para lutar.
+  Parx segura seu medalhão e prepara-se para esconjurar a criatura, mas
+você o detém: está farto desses monstros, e quer destroir pelo menos um
+deles com as próprias mãos. Veloz, em suas mãos, a espada decepa a cabeça
+do morto-vivo, e depois o braço e o outro... Até que restem apenas pedaços.
+  Você examina a sala em busca de algo importante, e encontra: uma chave
+pendurada na parede oposta. Com certeza o zumbi estava ali para guardá-la.
+Pegando a chave, você e Parx decidem que não há mais nada a fazer aqui e
+retomam à bifurcação, pegando o corredor da esquerda.
+  O corredor leva a uma porta trancada. Você experimenta a chave, e ela
+funciona: aporta se abre.
+  As idéias de Parx são divertidas, e ele é bom com disfarces. Caberá a
+você inventar uma história convincente antes de bater à porta de Arsenal.
+    Se quiser apresentar-se como negociante de artefatos mágicos, tecle 1
+    Se prefere agir sob o disfarce de emissário da Guilda, tecle 2
+   Opção inválida. F1 ajuda
+  Você agarra o colar de contas, reconhecendo-o como sendo parecido com
+aquele usado por um ranger amigo seu. As contas do colar são explosivas.
+  Você arranca a maior delas e arremessa contra Arsenal, cobrindo os olhos
+para proteger-se da explosão.
+  Quando olha novamente, descobre Arsenal ainda de pé, com o peito
+fumegando.
+ - Pobre tolo! - diz ele. É preciso muito mais do que isso para acabar
+comigo.
+ - Será mesmo? - você pergunta, sorrindo, quando uma idéia traiçoeira
+atravessa sua mente.
+  Você toma outra conta do colar e arremessa... mas não contra Arsenal.
+  Desta vez você faz pontaria no chão, entre seus pés. Como você planejou,
+o chão não resiste e desaba levando Arsenal consigo.
+ - Muito engenhoso, amigo Andrus, diz Parx, aproximando-se da beirada do
+buraco e olhando lá embaixo. - Isso provavelmente não vai matar Arsenal,
+mas irá detê-lo até que estejamos longe.
+  É melhor irmos logo, contudo.
+  Ele está certo.
+  O caminho da esquerda conduz vocês por um corredor que, mais adiante,
+termina em uma pesada porta metálica. Parece grossa demais, e não adiantaria
+tentar ouvir algo atrás dela.
+    Se quiser procurar armadilhas na porta, tecle 14
+    Se quiser tentar abrir a porta, tecle 28
+    Se quiser tentar outro corredor, tecle 6
+   Opção inválida. F1 ajuda
+  Tendo vencido Arsenal, você Pode examinar sua coleção
+com mais calma. Dentre uma infinidade de itens, você
+encontra o que parece ser um chapéu vulgar, mas é exatamente o
+que procurava.
+  A torre de Arsenal está mesmo deixando você paranóico,
+mas cuidado nunca é demais neste lugar. Com suas ferramentas,
+você fuça a base da tocha. Descobre de fato um mecanismo,
+mas não sabe dizer se vai ativar uma armadilha ou uma porta
+secreta. Você terá que arriscar.
+  Talvez não seja uma boa idéia confiar em Methralian. Ele
+tem uma posição de prestígio dentro da Guilda, e uma mudança de
+diretoria pode não ser de seu agrado. Achando mais prudente agir
+sem o clérigo, você parte na direção do castelo de Arsenal.
+  Quando você começa sua viagem, uma vozinha soa perto de seu
+ouvido:
+ - Partindo para uma aventura sem seu colega, Aranha?
+À menção de seu apelido no submundo, você se vira com a adaga
+em punho, pronto para atacar quem quer que seja. Mas não
+encontra ninguém. Olha à volta, confuso, e descobre que está
+mesmo sozinho. Sozinho, exceto por...
+  Você olha para o mico em seu ombro. Ele traz um sorriso
+em seu pequenino rosto.
+ - Parx ! - você grita, tentando acertar um tabefe no bicho. Ele
+se esquiva e pula para o chão, sendo logo envolvido por uma luz
+mágica e distorcida; aos poucos, a forma de macaco desaparece
+para dar lugar ao sacerdote Parx Methralian. Agora você se
+lembra: seus deuses concedem a ele o poder de transformar-se em
+macaco.
+ - Seu trapaceiro dos infernos! Quantas vezes tive você
+sobre meu ombro?
+ - Muitas, garanto. Um meio bem eficiente de acompanhar suas
+atividades. Mas não se enfureça tanto, velho amigo. Se eu
+realmente quisesse atraiçoá-lo, já teria denunciado à diretoria
+suas atividades. Acalmando-se, você percebe que aquilo deve ser
+verdade. Parx era assim mesmo: trapaceava por simples devoção
+aos deuses, sem grandes ambições materiais ou sociais. Se
+quisesse trair você para conquistar mais prestígio dentro da
+Guilda, já o teria feito.
+  Você resolve que pode confiar nele, afinal.
+Revela seu plano e assiste-o acariciar o cajado mágico
+que conseguiu no castelo de Arsenal.
+ - Um convite tentador, amigo Andrus. Este sacerdote, confesso,
+anda um pouco saudoso dos bons tempos de batalha. E será bom
+ter um velho amigo como chefe da Guilda. Vamos, pois, à procura
+do bom Mestre Arsenal.
+  Escutando com atenção, você abre a porta no instante em
+que o cão está trotando no sentido oposto ao de vocês. Ele
+é imenso e silencioso demais para uma criatura do seu tamanho.
+Parx faz suas preces silenciosas. Você já viu seu feitiço de
+paralisia em ação: a vítima fica espremida contra o solo, como
+se prensada por uma mão gigante e invisível, incapaz de
+mover-se ou falar. Contra aquele mastim, devia ser mais que
+suficiente.
+  O feitiço, entretanto, não surtiu efeito. Seria sua
+imaginação, ou as costelas da criatura estavam expostas?
+  Infelizmente, não era imaginação, Aquilo não era um cão de
+guarda comum, mas sim um cadáver animado- certamente invocado
+por Arsenal para proteger sua torre nesta noite tão suspeita.
+  Despreparados para uma batalha contra um morto-vivo, vocês não
+conseguem sobreviver ao toque pestilento das garras da fera...
+     Fim de jogo.
+Vá em busca de outros caminhos.
+  Com o máximo cuidado para não fazer ruído, você usa suas
+costumeiras agulhas envenenadas que costumam saltar das
+maçanetas, mas não encontra nenhuma. Depois de longos minutos,
+quando você está quase acreditando que a porta é inofensiva,
+percebe a existência de um mecanismo que seria ativado pelo
+abrir da porta. Não há como saber exatamente o que ele faria,
+mas é claramente uma armadilha. Com uma tesoura apropriada, vc
+corta o arame que serviria de gatilho e agora a porta é segura.
+  A porta leva a um grande aposento, que você e Parx reconhecem
+de imediato: é a sala onde Arsenal guarda as peças principais
+de sua coleçao e ela cresceu desde quando estiveram aqui.
+  Espadas magníficas adornam as paredes, armaduras reluzentes
+descansam em seus pedestais, escudos, orgulhosos, exibem seus
+brasões. Mas nada disso interessa a você. Precisa de alguma
+coisa especial, alguma coisa diferente...
+ - Tudo nessa sala é mágico - comenta Parx, maravilhado. Até
+mesmo aquele tapete. Vocês voltam a atenção para um grande
+tapete, finamente trabalhado, bem no centro da sala. Seria um
+dos tais tapetes voadores? Vale a pena investigar. Você e Parx
+se aproximam para sentar no tapete... e caem
+  A consciência retorna dolorosa. Você acorda em uma cela no
+calabouço da torre de Arsenal. Parx está ajoelhado ao seu lado,
+entoando cânticos para curar os ferimentos causados pela queda.
+ - O que foi desta vez? - você pergunta.
+ - Uma armadilha. O tapete nunca existiu. Era uma ilusão que
+escondia um alçapão.
+Você olha para o teto e vê o alçapão por onde devem ter caído,
+agora fechado. Malditas armadilhas mágicas!
+  Passos denunciam a aproximação de alguém. A porta da cela se
+abre, e por ela entram o que parecem ser dois guardas com
+armaduras completas.
+  Mas basta um olhar mais cuidadoso para notar que não há
+seres humanos ali: são armaduras mágicas. Elas se posicionam
+nos lados da porta, de espadas em punho e abrem passagem para...
+Arsenal. Sim, Mestre Arsenal em pessoa. O habilidoso guerreiro,
+cujo nome verdadeiro foi esquecido há muito tempo e que passou
+grande parte da sua vida percorrendo o mundo em busca de armas
+e armaduras encantadas. O dono da torre invadida por você e
+seus companheiros, para recuperar um artefato roubado,
+aproveitando para levar consigo muitas peças de sua coleção.
+  Será que ele ainda estava zangado?
+  Arsenal usava suas peças favoritas: a couraça completa, a
+capa orgulhosa e o rosto oculto pelo elmo de aspecto ameaçaor.
+Desta vez não trazia consigo o escudo imenso, grande como uma
+porta e o descumunal martelo de guerra, capaz de derrubar
+paredes, pelo que você se lembra. Trazia nas mãos sua capa
+mágica e o cajado de Parx.
+ - Surpreendem-me com sua audácia, seus ratos ladrões, diz a voz
+abafada pelo elmo. - Invadir minha torre no passado foi, por si
+só, um atrevimento desmedido. Retornar aqui, então, é algo que
+só posso classificar como pura loucura.
+  Ele agita a capa e o cajado diante de vocês, talvez
+esperando que tentem recuperá-los. Nem você e nem Parx são tolos
+o bastante para tentar: Arsenal usa objetos mágicos que ampliam
+sua força e mesmo sem armas poderia matá-los sem esforço.
+ - A recompensa por sua tolice será a morte - anuncia ele. - Mas
+não agora. Vocês interromperam meu sono e desejo estar
+descansado para saborear seu sofrimento. Aproveitem seu último
+alvorecer. Arsenal deixa a cela, instruindo as armaduras para
+montar guarda do lado de fora. Você e Parx entreolham-se:
+- Reparou como os vilões sempre dão uma chance para a gente
+escapar?
+ - Não alimente falsas esperanças, Andrus. Como a maioria
+dos usuários de feitiços, Arsenal precisa estar plenamente
+descansado para renovar seus poderes pela manhã. Por certo ele
+planeja matar-nos com magia, de maneiras tão horríveis que eu
+mal poderia dr.
+Diante dessa perspectiva nada agradável, você saca o estojo de
+ferramentas que, felizmente, escapou à revista de Arsenal.
+ - Como vamos sair daqui? Posso cuidar da fechadura, mas e os
+guardas?
+ - Apenas abra a porta, e deixe o resto comigo.
+  Você lida com a fechadura da cela, ofendido com sua simplicidade.
+Destranca-a em poucos segundos. Então, de posse de seu símbolo
+sagrado, Parx salta para o corredor e enfrenta os guardas.
+ - Voltem para o reino dos mortos, criaturas das trevas! Parece
+que Parx perdeu o juízo. Ele pode esconjurar mortos-vivos, mas
+como espera fazer o mesmo com armaduras mágicas? Para sua
+surpresa, entretanto, você assiste a uma cena impossível: as
+armaduras estremecem e caem em pedaços.
+ - Não eram armaduras encantadas, explica Parx . -Eram fantasmas
+invisíveis, invocados por Arsenal.
+ - É bom ver você mostrar um pouco de esperteza, para variar!
+  Rindo baixo, você agarra uma das espadas caídas no chão e
+oferece outra a Parx. Ele recusa, afirmando que seus deuses não
+aprovam o uso de armas daquele tipo. Vocês seguem por um
+corredor mal iluminado e chegam a uma bifurcação.
+    Se quiser pegar o caminho da direita, tecle 1
+    Se prefere o da esquerda, tecle 2
+   Opção inválida. F1 ajuda
+  Dias depois, os grandes chefes de quadrilha de Kristophania
+foram convocados para uma reunião extraordinária pelo chefão da
+Guilda. Na cabeceira da mesa, tendo seus guardas assassinos a
+seu lado, ele tem um anúncio surpreendente a fazer:
+ - Estou cansado da diretoria, declara ele. - Convoquei esta
+reunião para declarar quem será o novo chefe geral da Guilda de
+Kristophania. Andrus, o Aranha, será o novo diretor.
+  Os chefes se agitam, indignados, com a entrada de Andrus no
+recinto. Cada um esperava ser indicado para o cargo supremo...
+mas não estavam preparados para aquilo! Andrus?
+ - Muito obrigado, chefe - você diz. - Vou cuidar bem das
+coisas por aqui.
+ - Conto com você, Andrus. Estarei me retirando para meu
+esconderijo, onde vou gozar de uma aposentadoria merecida,
+longe das autoridades. Adeus.
+  E a reunião termina com a saída dos chefes, furiosos. Você terá
+alguns problemas para impor sua autoridade a eles, mas nada
+difícil demais. Com a autorização pessoal do chefão, e os
+assassinos da Guilda ao seu lado, ninguém irá se opor à sua
+liderança.
+  Você dispensa os guardas, satisfeito em ver que eles
+cumprem suas ordens. Estão sozinhos agora, você e o ex chefe.
+Ou não?
+ - Muito bom este chapéu de disfarce , revela Parx, disfarçado
+por seu poder mágico, em chefe da Guilda.
+ - Suas ilusões poderiam enganar qualquer um.
+ - Não precisam enganar mais ninguém. Você explica:
+ - Se o corpo do chefe for encontrado, não fará mais diferença.
+Agora (ele) já passou o cargo para mim, certo?
+Sim, foi um bom plano: matar o chefe, e usar o chapéu mágico
+de Arsenal para criar a ilusão de que Parx era ele, transferindo
+toda a autoridade para você. Parabéns, você conseguiu.
+É o novo chefão da Guilda dos Ladrões... Pelo menos até que
+alguém apareça com um plano mais matreiro que o seu!
+      Parabéns, você venceu... Fim de jogo! Volte sempre!
+        As Opções são:
+      F2 - Repete sua situação
+      F3 - Repete as alternativas
+   Para jogar novamente, tecle Enter
+   Para finalisar, tecle Escape
+   Opção inválida. F1 ajuda

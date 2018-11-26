@@ -1,0 +1,47 @@
+                             JOGO RESTA 1
+
+O jogo é composto por um tabuleiro com 33 casas e trinta e duas peças.
+As casas do tabuleiro encontram-se em 7 linhas da seguinte forma:
+Linhas 1 2 6 e 7 3 casas.
+linhas 3 4 e 5 7 casas.
+Quando uma casa está ocupada a máquina fala  '.'  (ponto),  quando  está
+vasia fala 'vasio'. O micro também fala a linha e coluna da casa.
+
+                               EXEMPLOS
+
+13. casa ocupada na linha 1 coluna 3, é a primeira casa do tabuleiro.
+44vasio casa localizada na linha 4 coluna 4 vasia, é a casa central do
+tabuleiro.
+
+O objetivo do jogo é ir comendo peças até restar apenas uma.
+
+                               COMANDOS
+
+setas caminham pelo tabuleiro
+x marca uma peça
+enter coloca a peça marcada em uma casa vasia desde que ela tenha
+passado por cima de outra peça em uma das 4 direções das setas
+f1 ajuda
+esc termina o jogo
+
+                         EXEMPLO DE MOVIMENTOS
+
+    situação 1
+44.marcado 34. 24vasio
+movendo: seta duas vezes para cima enter
+trocado: 44vasio 34vasio 24.
+
+    situação 2
+44.marcado 43. 42vasio
+movendo: seta duas vezes para a esquerda enter
+trocado: 44vasio 43vasio 42.
+
+    situação 3
+44.marcado 45. 46vasio
+movendo: seta duas vezes para a direita enter
+trocado: 44vasio 45vasio 46.
+
+    situação 4
+44.marcado 54. 64vasio
+movendo: seta duas vezes para baixo enter
+trocado: 44vasio 54vasio 64.
