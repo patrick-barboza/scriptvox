@@ -1,0 +1,127 @@
+Removidos:
+
+
+68 Espaços
+Abre Dicionário Michaellis
+Abre um MID e Pausa (Resolver problema de Drivers no windows 98)
+acerta hora do computador pelo sítio hora certa
+Acerta Hora e a Informa em Várias Cidades
+Alfabeto Esperanto
+altera data
+Apaga lixeira
+Apaga Log dos arquivos .pp e .inc
+ativa comando para compilar em turbo pascal
+Autentica Velox RJ
+baixa jornal diário do nordeste
+Busca um arquivo e joga o caminho completo no edivox
+Calcula Datas
+compacta um ou mais arquivos inclusive com senha usando PKZip
+Compara Dois Caracteres
+Compila com o Free Pascal
+Compila os Fontes do Diretório Tradutor
+Compila um Arquivo usando Delphi 6
+Compila usando o Free Pascal Compiler
+Compila usando o Free Pascal Compiler (mais Longo)
+consulta ao dicionário aurélio século XXI
+consulta ao Dicionário Michaellis
+converte CDA em MP3 com o CDEX
+converte doc para txt com Word 7.0
+converte jpg em txt com o recognita 50
+Converte PDF para txt
+converte planília do Excel para texto com tabulações
+converte ppt para jpg com o PowerPoint
+converte ppt para txt com o PowerPoint
+Converte todos os Arquivos RTF de uma Pasta para TXT
+converte xls para txt usando Excel
+copia o texto de um arquivo para outro
+CopiaDirAtual
+corrige prova remota
+cria script para o Jaws 3.7 não traduzido ficar mudo com algum programa
+descompacta inclusive arquivos com senha pelo PKUnzip
+descompacta inclusive arquivos com senha pelo Winzip
+desfragmenta disco
+Desliga Windows na Hora Informada
+Dicionário Houaiss
+diz título da janela, campo e foco
+Entra no Chat da Rede SACI via Papovox
+Entrada no Provedor do Velox
+envia um poema de Camões por e-mail
+Espiritismo
+faz backup de uma pasta com tudo que houver dentro
+Fecha Chaves das Linhas de Comentários em Arquivos .pas
+formata disquete pelo Windows
+Gerencia Programas
+Gerenciamento de E-mails no Servidor
+Grava e toca com o MCI
+Grava Seqüências de palavras do Dicionário Michaellis versão UOL
+Grava Seqüências de Palavras do DicMachi
+Guarda Itens de uma Janela em um Arquivo
+Hp_p50.cmd
+Hp_s30.cmd
+Hp_s50.cmd
+interface para o CDEX 1.40B
+Junta palavras partidas por hífen
+juntador de linhas do edivox para o Word 7.0
+lê todo um arquivo e diz seu número de linhas
+lê uma tecla sob demanda
+Limpa Digits de arquivos PDF convertidos para TXT pelo Gost Gun
+limpador e trocador de letras estranhas
+lista arquivos de uma pasta
+lista diretórios de uma pasta
+Mensagem
+Mini leitor de telas
+Mini leitor do cursor do mouse baseado em MSAA
+mini servidor de Internet
+net meeting
+Números Quentes
+Ocr.cmd
+Omni11.cmd
+omni_p11.cmd
+Oráculo baseado em Dominó
+Ordena Catálogos da Web do Dosvox com o Uniq
+pdf2txt
+pega arquivo html de um servidor http
+pega uma linha de um servidor remoto
+Põe marcas em Arquivo de texto para leitura posterior
+Poema Randômico
+procura_usando_FFF.cmd
+ptwin62
+rararq
+relógio para jogo de xadrez remoto
+Remove Arquivos da Lixeira do Dosvox.cmd
+Remove cabeçalho de Arquivos .txt salvos pelo Webvox
+remove do pop3 cartas grandes ou com certos remetentes
+remove do pop3 Todas as cartas
+remove linhas em branco de um arquivo
+Remove os Arquivos de windows-temp
+remove temporários de windows-temp e windows-cookies (só funciona em Windows 9x)
+Remove todos os .car de Winvox-Internet
+remove uma pasta com qualquer coisa dentro (só em Windows 9x)
+removeUSB
+renomeia um arquivo
+Retira Digits de um Man do Linux Salvo em Texto
+Salva todos os arquivos doc em txt de um diretório
+sintetiza aleatoriamente uma mensagem
+Sortevox
+substituição de letras usando o código zenit polar
+Tira Acentos.pro
+TNETPAPO.CMD
+toca uma pasta com mp3 usando Winamp
+Troca vários Espaços por Um entre Palavras
+vê quantas cartas há no pop3
+vê se chegou algo no pop3
+ziparq
+
+
+Adicionados:
+Apagador de espaços em branco, versão corrigida
+atualiza data e hora
+buscacep
+Climavox
+composivox
+Digitaliza um arquivo usando finereader 11
+Junta Sílaba Qebrada no Fim da Linha
+junta txt
+Palcovox - Buscador de músicas em mp3 na internet
+Top music - Buscador de letras de músicas na internet
+Troca vários Espaços por Um entre Palavras
